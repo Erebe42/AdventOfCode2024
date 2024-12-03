@@ -94,8 +94,8 @@ fn part_two(file_path: &str) -> usize {
 }
 
 fn main() {
-    println!("Part One test: {}", part_one("test.txt"));
+    println!("Part One test: {}", part_one("test_1.txt"));
     println!("Part One: {}", part_one("input.txt"));
-    println!("Part Two test: {}", part_two("test.txt"));
+    println!("Part Two test: {}", part_two("test_1.txt"));
     println!("Part Two: {}", part_two("input.txt"));
 }

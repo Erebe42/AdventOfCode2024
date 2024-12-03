@@ -65,9 +65,9 @@ fn part_two(file_name: &str) -> i32 {
 }
 
 fn main() {
-    println!("Part One test: {}", part_one("test.txt"));
+    println!("Part One test: {}", part_one("test_1.txt"));
     println!("Part One: {}", part_one("input.txt"));
-    println!("Part One test: {}", part_two("test.txt"));
+    println!("Part One test: {}", part_two("test_1.txt"));
     println!("Part One: {}", part_two("input.txt"));
 }
 
